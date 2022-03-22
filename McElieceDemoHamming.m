@@ -9,6 +9,7 @@
 %   https://www.avoggu.com/posts/an-efficient-algorithm-for-hamming-(74)-decoding-matlab-implementation/
 %   https://www.tutorialspoint.com/hamming-code-for-single-error-correction-double-error-detection
 %   https://en.wikipedia.org/wiki/Hamming(7,4)
+%   http://michael.dipperstein.com/hamming/index.html
 
 % Example using a Hamming Code rather than a Goppa Code
 n=7;
